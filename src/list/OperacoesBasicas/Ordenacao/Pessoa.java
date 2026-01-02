@@ -1,7 +1,6 @@
 package list.OperacoesBasicas.Ordenacao;
 import java.util.Comparator;
 
-
 public class Pessoa implements Comparable <Pessoa> {
     // Atributos
     private String nome;
